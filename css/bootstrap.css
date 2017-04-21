@@ -27,6 +27,12 @@ section,
 summary {
   display: block;
 }
+header .header{
+
+  color: #777c84;
+  background-color: #000000;
+}
+
 audio,
 canvas,
 progress,
@@ -6319,6 +6325,15 @@ button.close {
   top: 0;
   width: 100%;
 }
+
+h6{
+  display: block;
+  font-size: 60px;
+  color: #1e1f21;
+  font-weight: bold;
+}
+
+
 .carousel-inner > .next {
   left: 100%;
 }
